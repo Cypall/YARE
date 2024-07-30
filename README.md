@@ -1,5 +1,7 @@
-YARE(Yet Another Ragnarok Emulator)
-
-use linux terminal and type
+**YARE(Yet Another Ragnarok Emulator)**
+<br/>
+*use linux terminal and type
+<br/>
 $make clean
 $make all
+<br/>
