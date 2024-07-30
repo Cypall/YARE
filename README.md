@@ -1,6 +1,6 @@
 **YARE(Yet Another Ragnarok Emulator)**
 <br/>
-*use linux terminal and type
+*use linux terminal and type*
 <br/>
 $make clean
 <br/>
