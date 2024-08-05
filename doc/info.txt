@@ -1,3 +1,5 @@
+YARE (Yet Another Ragnarok Emulator)
+
 credit
 Florian Wilkemeyer
 
